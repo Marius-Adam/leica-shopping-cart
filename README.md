@@ -1,12 +1,12 @@
-# Leica tribute page - Vanilla JS shopping cart
+# Vanilla JS shopping cart - a tribute page to Leica cameras
 
 ![Shopping Cart](README.png?raw=true "Shopping Cart")
 
-### <a href="https://marius-adam.github.io/responsive-navbar/">LIVE DEMO</a>
+### <a href="https://marius-adam.github.io/leica-shopping-cart/">LIVE DEMO</a>
 
 ## Description
 
-This project was the final assignment of a Udemy course from <a href="https://www.udemy.com/user/janis-smilga-3/">John Smilga</a>
+This project was the final assignment of a Udemy course from <a href="https://www.udemy.com/user/janis-smilga-3/">John Smilga</a>. 
 Users will be able to add and remove items from the shopping cart. Once in the shopping cart the user also has the option of increasing and decreasing the quantity of the items. Initially data was loaded from a local JSON file, however later on I transferred data to <a href="https://www.contentful.com/">Contentful</a> because of their convenient and user friendly way of updating the content of the website.
 
 ## Functionality
